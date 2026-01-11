@@ -75,7 +75,7 @@ The dataset contains multiple subjects (Subject1–Subject5) with natural varian
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
 ```
 
@@ -194,7 +194,7 @@ Top-5 is informative in this setting because:
 
 ---
 
-## 🧪 Notes on Results
+## Notes on Results
 
 This repository focuses on **reproducibility under constraints**, not on matching GPU-optimized PyG performance.
 
@@ -213,7 +213,7 @@ Main limitations:
 
 ---
 
-## 📌 Citation
+## Citation
 
 If you use this dataset or refer to the original method, please cite:
 
